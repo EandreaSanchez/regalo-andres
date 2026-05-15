@@ -312,7 +312,7 @@ export default function Home() {
                     </p>
 
                     <p className="text-white/40 text-sm mt-6 italic">
-                      Porque te mereces algo extraordinario.
+                      Porque te mereces algo muy extraordinario como lo eres tú.
                     </p>
 
                   </motion.div>
