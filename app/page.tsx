@@ -307,6 +307,9 @@ export default function Home() {
                       Tu nuevo iPhone llegará
                       terminando mayo.
                     </p>
+                    <p className="text-white/40 text-sm mt-6 italic">
+                      Con amor, de tu esposa ❤️
+                    </p>
 
                     <p className="text-white/40 text-sm mt-6 italic">
                       Porque te mereces algo extraordinario.
